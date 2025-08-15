@@ -26,8 +26,7 @@ export function ProgramHighlights() {
                 Weekly Training
               </h3>
               <p className="text-slate-600 text-sm">
-                The days are tight to the location. Tuesdays & Thursdays:
-                Dzorwulu, Wednesdays: Labadi
+                Tuesdays & Thursdays: Dzorwulu, Wednesdays: Labadi
               </p>
             </CardContent>
           </Card>
