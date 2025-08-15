@@ -78,6 +78,7 @@ export function HeroSection() {
               <video
                 className="w-full h-full object-cover"
                 controls
+                loop
                 poster="/images/video-thumbnail.png"
               >
                 <source src="hero-vid.mp4" type="video/mp4" />
