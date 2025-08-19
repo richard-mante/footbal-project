@@ -95,8 +95,8 @@ export function Footer() {
 
         <div className="border-t border-slate-700 mt-8 pt-8 text-center">
           <p className="text-slate-400">
-            © 2024 FitLife Concepts Ltd. All rights reserved. | Proudly
-            supporting Elite Sport United
+            © 2024 FitLife Concepts Ltd. All rights reserved. | Proudly designed
+            by SCYNETT.
           </p>
         </div>
       </div>

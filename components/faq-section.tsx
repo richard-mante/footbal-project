@@ -24,7 +24,7 @@ export function FAQSection() {
     {
       question: "What equipment does my child need?",
       answer:
-        "We provide all necessary equipment including flags, footballs, and cones. Your child just needs to wear comfortable athletic clothing and bring a water bottle.",
+        "We provide all necessary equipment including flags, footballs, and cones. Your child just needs to wear comfortable athletic clothing, cleats, and bring a water bottle.",
     },
     {
       question: "How experienced are the coaches?",
